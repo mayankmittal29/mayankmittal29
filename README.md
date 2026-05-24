@@ -162,11 +162,44 @@ class MayankMittal:
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📈 Contribution & Activity Analytics
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=mayankmittal29&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### 🗓️ Contribution Graph
+[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankmittal29&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 📅 Commit Heatmap & Streak Deep Dive
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankmittal29&theme=tokyonight&hide_border=true&mode=weekly" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayankmittal29&theme=tokyonight" width="100%"/>
+
+</div>
+
+---
+
+### 🔬 Commit Distribution & Repo Insights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayankmittal29&theme=tokyonight" height="200"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayankmittal29&theme=tokyonight" height="200"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayankmittal29&theme=tokyonight" height="200"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayankmittal29&theme=tokyonight&utcOffset=5.5" height="200"/>
 
 </div>
 
